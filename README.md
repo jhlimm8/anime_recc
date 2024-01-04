@@ -9,7 +9,7 @@ These models have implementations for calculating the similarity between two ani
 
 
 Collaborative filtering(col_fil):
-- Item-item similarity
+- Item-item
 - Matrix Factorization \
 Along with similarity implementations, these models have additional implementations for rating prediction, e.g.
 ![image](https://github.com/jhlimm8/anime_recc/assets/103594440/39fbf454-02ee-4222-98d1-ef99fcff7b58)
